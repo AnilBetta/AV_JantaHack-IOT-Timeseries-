@@ -1,9 +1,10 @@
- AV_JantaHack-IOT-Timeseries-https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-iot/#About
+ AV_JantaHack-IOT-Timeseries-https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-iot/#About.
+
 Rank 1 solution.
 Public LeaderBoard Rank: 3
 Private LeaderBoard Rank: 1
 
-Hackathons Introduction
+Hackathons Introduction :
 IoT devices are becoming popular nowadays. The widespread use of IoT yields huge amounts of raw data. This data can be effectively processed by using machine learning to derive many useful insights that can become game changers and affect our lives deeply.
 
 This #JantaHack challange bring you a challenge providing all of you with an opportunity to work with sensor data and solve an interesting IOT problem.
