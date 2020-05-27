@@ -1,4 +1,4 @@
- AV_JantaHack-IOT-Timeseries-https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-iot/#About.
+ AV_JantaHack-IOT-Timeseries:
 
 Rank 1 solution.
 Public LeaderBoard Rank: 3
